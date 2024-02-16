@@ -1,0 +1,33 @@
+namespace Data.Settings
+{
+    public enum KeyCodeDescription
+    {
+        MoveForward, 
+        MoveBackward, 
+        MoveLeft, 
+        MoveRight, 
+        Jump,
+        OpenSettings, 
+        CameraRotation,
+        Run,
+        CameraCrop,
+        Aim,
+        Fire,
+        Crouch,
+        Reload,
+        Inventory1,
+        Inventory2,
+        Inventory3,
+        Inventory4,
+        Inventory5,
+        Inventory6,
+        Inventory7,
+        Inventory8,
+        Inventory9,
+        WeaponPrev,
+        WeaponNext,
+        Tasks,
+        Memory,
+        Modifier
+    }
+}

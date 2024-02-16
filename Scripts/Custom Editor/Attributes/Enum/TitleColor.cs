@@ -1,0 +1,37 @@
+﻿namespace EditorCustom.Attributes
+{
+    public enum TitleColor
+    {
+        Aqua,
+        Beige,
+        Black,
+        Blue,
+        BlueVariant,
+        DarkBlue,
+        Bright,
+        Brown,
+        Cyan,
+        DarkGray,
+        Fuchsia,
+        Gray,
+        Green,
+        Indigo,
+        LightGray,
+        Lime,
+        Navy,
+        Olive,
+        DarkOlive,
+        Orange,
+        OrangeVariant,
+        Pink,
+        Red,
+        LightRed,
+        RedVariant,
+        DarkRed,
+        Tan,
+        Teal,
+        Violet,
+        White,
+        Yellow
+    }
+}
